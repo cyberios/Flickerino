@@ -1,0 +1,64 @@
+PODS:
+  - Action (4.1.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - Alamofire (5.2.1)
+  - IVCollectionKit (0.9.11)
+  - KeychainAccess (4.2.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxKeyboard (1.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.8.1):
+    - SDWebImage/Core (= 5.8.1)
+  - SDWebImage/Core (5.8.1)
+  - SnapKit (5.0.1)
+  - SwiftGen (6.2.0)
+
+DEPENDENCIES:
+  - Action
+  - Alamofire
+  - IVCollectionKit (~> 0.9.10)
+  - KeychainAccess
+  - RxCocoa
+  - RxKeyboard
+  - RxSwift
+  - SDWebImage
+  - SnapKit
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - Action
+    - Alamofire
+    - IVCollectionKit
+    - KeychainAccess
+    - RxCocoa
+    - RxKeyboard
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SnapKit
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Action: 79e6c5dc91e13eea045ab6744b3e5609086671aa
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  IVCollectionKit: 5e1a2062fdfc3963750fce35f4625895f9ce1c58
+  KeychainAccess: 3f760109aa99b05d0f231e28b22642da7153e38a
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxKeyboard: 6683c4344304a00f943c158bd8a43ce5469c82a7
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: e3eae2eda88578db0685a0c88597fdadd9433f05
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftGen: 77e88c8609381660cc1084c5ba8e1dc6065de692
+
+PODFILE CHECKSUM: eb53ab95daff5234a0e03867b782799284bd3ec2
+
+COCOAPODS: 1.9.3
